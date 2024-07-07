@@ -28,7 +28,7 @@
   Better Markdown to text chat Discord.
 
 <br/>
-<img src="https://i.imgur.com/JgHTZVd.gif" width="500" /><br/>
+<img src="https://www.pinterest.com/pin/7036943160218924/" width="500" /><br/>
 
 ### Socials
 
