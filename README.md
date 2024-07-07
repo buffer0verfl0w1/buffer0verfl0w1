@@ -40,13 +40,11 @@
     <img src="https://lanyard.cnrad.dev/api/721746046543331449?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=In%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
   </a>
 
-## My stats:
+### My stats:
 
-<p>
-  <a href="/"  align="left">
-  <img width="auto" src="https://github-readme-stats.vercel.app/api?username=aiko-chan-ai&theme=dracula&show_icons=true"/>
-  </a>
-</p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/buffer0verfl0w1"><img src="https://github-readme-stats.vercel.app/api?username=buffer0verfl0w1&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="buffer0verfl0w1's GitHub stats" /></a>
 
 ## Commits
 
