@@ -27,7 +27,6 @@
 - 📕 [***aiko-chan-ai/Discord-Markdown***](https://github.com/aiko-chan-ai/Discord-Markdown) <br/>
   Better Markdown to text chat Discord.
 
-<br/>
 [<img src="https://www.pinterest.com/pin/7036943160218924/"](https://www.pinterest.com/pin/7036943160218924/)
 
 ### Socials
