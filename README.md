@@ -1,6 +1,6 @@
 #
 <div>
-<img src="https://i.imgur.com/fgSLbeG.png" width="300" align="right" />
+<img src="[https://i.imgur.com/fgSLbeG.png](https://github.com/buffer0verfl0w1/buffer0verfl0w1/assets/144252622/5bb384ac-6603-4fb4-8c03-b8b49354e1a4)" width="300" align="right" />
 <br/>
 <img src="https://github.com/buffer0verfl0w1/buffer0verfl0w1/assets/144252622/5bb384ac-6603-4fb4-8c03-b8b49354e1a4" width="500" />
 <br/>
