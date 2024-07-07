@@ -35,24 +35,15 @@
 <sub>  *“It's not bad for the leading actress to play a charming villain for a change ♪.” – Elysia* </sub>
 </div>
 
-## Discord
-<a href="https://discord.com/users/721746046543331449"  align="left">
+### Discord
+<a href="https://discord.com/users/957344569685594122"  align="left">
     <img src="https://lanyard.cnrad.dev/api/721746046543331449?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=In%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
   </a>
 
 ### My stats:
 
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/buffer0verfl0w1"><img src="https://github-readme-stats.vercel.app/api?username=buffer0verfl0w1&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="buffer0verfl0w1's GitHub stats" /></a>
 
-## Commits
+### Commits
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=aiko-chan-ai/DiscordBotClient,aiko-chan-ai/discord.js-selfbot-v13&type=Date)](https://star-history.com/#aiko-chan-ai/DiscordBotClient&aiko-chan-ai/discord.js-selfbot-v13&Date)
-
-
-## Thanks for reading ❤️
