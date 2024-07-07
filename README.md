@@ -2,8 +2,6 @@
 <div>
 <img src="https://github.com/buffer0verfl0w1/buffer0verfl0w1/assets/144252622/5bb384ac-6603-4fb4-8c03-b8b49354e1a4" width="300" align="right" />
 <br/>
-<img src="https://github.com/buffer0verfl0w1/buffer0verfl0w1/assets/144252622/5bb384ac-6603-4fb4-8c03-b8b49354e1a4" width="500" />
-<br/>
 <br/>
   
 - <img src="https://i.imgur.com/3KyfuCu.png" alt="." width="16" height="16"/> Student from Vietnam  
