@@ -1,5 +1,5 @@
 # Nuclear warhead seller
-![image](https://github.com/user-attachments/assets/f0b1a3ea-5a3f-4042-9a8f-63135d08b9c3)
+<img width="1277" height="710" alt="image" src="https://github.com/user-attachments/assets/b4cc50f8-e4f0-40bb-8b9f-bfc6bbae7b63" />
 
 ![VWro7A1RG4QkbgKqi4Qh7E1cu4OgJXRDqCFwdgasj8D8AthmhH7H31Km9z8dldv7oIXPEj8HB5cXLsZv7jQAAAABJRU5ErkJggg](https://github.com/user-attachments/assets/63813f6f-81f6-45f2-8ab3-cbe7625f62e3)
 
