@@ -1,5 +1,5 @@
 # **☢️ NUCLEAR WARHEAD SELLER**
-# <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/mac%20os-No-red?style=for-the-badge&logo=apple&logoColor=white" /> **BUFFEROVERFLOW ชื่อนี้คุณมั่นใจ!**
+# <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/mac%20os-No-red?style=for-the-badge&logo=apple&logoColor=white" /> **3of ชื่อนี้คุณมั่นใจ!**
 
 <p align="center">
   <img width="1483" alt="image" src="https://github.com/user-attachments/assets/649b8fb7-d96d-44c1-8eac-7e0ae62011ec" />
