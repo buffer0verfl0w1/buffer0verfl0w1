@@ -1,7 +1,49 @@
-# Nuclear warhead seller
-<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/649b8fb7-d96d-44c1-8eac-7e0ae62011ec" />
-<img width="1278" height="716" alt="image" src="https://github.com/user-attachments/assets/a0d16d7b-bf35-428d-a6f5-5daaf3725096" />
+# ☢️ NUCLEAR WARHEAD SELLER
+> **Personal Private Project By BUFFEROVERFLOW**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/mac%20os-No-red?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
 
+<p align="center">
+  <img width="1483" alt="image" src="https://github.com/user-attachments/assets/649b8fb7-d96d-44c1-8eac-7e0ae62011ec" />
+  <img width="1278" alt="image" src="https://github.com/user-attachments/assets/a0d16d7b-bf35-428d-a6f5-5daaf3725096" />
+</p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/957344569685594122?theme=dark&hideSpotify=true&showDisplayName=true)](https://discord.com/users/957344569685594122)
+<p align="center">
+  <a href="https://discord.com/users/957344569685594122">
+    <img src="https://lanyard.cnrad.dev/api/957344569685594122?theme=dark&hideSpotify=true&showDisplayName=true" alt="Discord Presence" />
+  </a>
+</p>
+
+---
+
+## About The Project
+This project is developed and maintained by **BUFFEROVERFLOW** for strictly personal use. The core development and aesthetics were made possible through the major support of **LITTLE DEER**.
+
+## Project Status
+- **Updates:** Pushed irregularly based on personal availability.
+- **Compatibility:** Guaranteed to be compatible with **all Discord versions**.
+- **Version Control:** Dynamic updates with high stability.
+
+## Important Disclaimer
+-  **Personal Use Only**: This project is not intended for public distribution.
+-  **NOT FOR SALE**: This software is not, and will never be, for sale or commercial use.
+-  **LITTLE DEER**: Acknowledged as the primary supporter and key collaborator.
+
+## Connect With Me
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCsF5GG3EZ32-nF_J7Yn2Dcg">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/MXNZrUNTKp">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://guns.lol/buffer0verfl0w">
+    <img src="https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=target&logoColor=white" />
+  </a>
+</p>
+
