@@ -19,6 +19,7 @@ This project is developed and maintained by **BUFFEROVERFLOW** for strictly pers
 
 ## Key Features
 - **Zero Configuration** : Ready to use out of the box with no setup required. Just run and go.
+- **Arrow Key Navigation** : The system uses arrow keys for easy option selection, making it simple and user-friendly.
 - **Advanced Proxy System** : Features a Rotating Proxy system that cycles through unique proxies during operation for maximum security.
 - **Auto-Freeze Recovery** : Automatically freezes all operations if the internet connection is lost, resuming only when the connection is restored.
 - **Multi-Shot Nuke** : Advanced multi-shot server nuking capability. Attack multiple servers simultaneously without triggering 429 Rate Limits.
