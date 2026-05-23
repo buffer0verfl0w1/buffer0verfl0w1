@@ -17,6 +17,14 @@
 ## About The Project
 This project is developed and maintained by **BUFFEROVERFLOW** for strictly personal use. The core development and aesthetics were made possible through the major support of **LITTLE DEER**.
 
+## Key Features
+- **Zero Configuration** : Ready to use out of the box with no setup required. Just run and go.
+- **Advanced Proxy System** : Features a Rotating Proxy system that cycles through unique proxies during operation for maximum security.
+- **Auto-Freeze Recovery** : Automatically freezes all operations if the internet connection is lost, resuming only when the connection is restored.
+- **Multi-Shot Nuke** : Advanced multi-shot server nuking capability. Attack multiple servers simultaneously without triggering 429 Rate Limits.
+- **Multi-Token Support** : Supports multiple bot tokens simultaneously. Each bot can handle separate commands independently without conflict.
+- **Quality Code** : Every line is meticulously written with a focus on performance, stability, and reliability.
+
 ## Project Status
 - **Updates :** Pushed irregularly based on personal availability.
 - **Compatibility :** Guaranteed to be compatible with **all Discord versions**.
