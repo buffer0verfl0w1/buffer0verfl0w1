@@ -1,4 +1,5 @@
-# **☢️ NUCLEAR WARHEAD SELLER** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/mac%20os-No-red?style=for-the-badge&logo=apple&logoColor=white" />
+# **☢️ NUCLEAR WARHEAD SELLER**
+# <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/mac%20os-No-red?style=for-the-badge&logo=apple&logoColor=white" /> **BUFFEROVERFLOW ชื่อนี้คุณมั่นใจ!**
 
 <p align="center">
   <img width="1483" alt="image" src="https://github.com/user-attachments/assets/649b8fb7-d96d-44c1-8eac-7e0ae62011ec" />
@@ -17,14 +18,14 @@
 This project is developed and maintained by **BUFFEROVERFLOW** for strictly personal use. The core development and aesthetics were made possible through the major support of **LITTLE DEER**.
 
 ## Project Status
-- **Updates:** Pushed irregularly based on personal availability.
-- **Compatibility:** Guaranteed to be compatible with **all Discord versions**.
-- **Version Control:** Dynamic updates with high stability.
+- **Updates :** Pushed irregularly based on personal availability.
+- **Compatibility :** Guaranteed to be compatible with **all Discord versions**.
+- **Version Control :** Dynamic updates with high stability.
 
 ## Important Disclaimer
--  **Personal Use Only**: This project is not intended for public distribution.
--  **NOT FOR SALE**: This software is not, and will never be, for sale or commercial use.
--  **LITTLE DEER**: Acknowledged as the primary supporter and key collaborator.
+-  **Personal Use Only** : This project is not intended for public distribution.
+-  **NOT FOR SALE** : This software is not, and will never be, for sale or commercial use.
+-  **LITTLE DEER** : Acknowledged as the primary supporter and key collaborator.
 
 ## Connect With Me
 <p align="left">
@@ -38,4 +39,3 @@ This project is developed and maintained by **BUFFEROVERFLOW** for strictly pers
     <img src="https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=target&logoColor=white" />
   </a>
 </p>
-
